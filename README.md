@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/14b00327316155.56363843c552e.jpg)
+
 <h1 align="center">Hi 👋, I'm Aarush Sachdeva</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400px" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"
