@@ -21,4 +21,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=aarushcpp&show_icons=true&locale=en" alt="aarushcpp" />&nbsp;&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aarushcpp&" alt="aarushcpp" /></p>
+<p><img width="300px" src="https://github-readme-stats.vercel.app/api?username=aarushcpp&show_icons=true&locale=en" alt="aarushcpp" />&nbsp;&nbsp;<img  width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=aarushcpp&" alt="aarushcpp" /></p>
